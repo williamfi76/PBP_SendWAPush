@@ -9,8 +9,8 @@ jobs:
         env:
           account_sid: ACba6b3c993ebc0a1e1f2d68defda108c1
           auth_token: 6e6b4a0c85d60c2f3b9998e14d6ec1ac
-          to_whatsapp_no: +6282261289515
-          message: Ada pesan baru
+          to_whatsapp_no: +6282116013197
+          message: Telah ada COmmit baru
 
         uses: khaled-ibtikar/whatsapp-push-notify-action@master
               
