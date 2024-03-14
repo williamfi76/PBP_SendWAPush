@@ -11,6 +11,6 @@ jobs:
           auth_token: 1bb2f9dd75144542b6b9db487e042e51
           to_whatsapp_no: 082116013197
 
-        uses: khaled-ibtikar/whatsapp-push-notify-action@master
+        uses: khaledahmedelsayed/whatsapp-push-notify-action@master
               
     
